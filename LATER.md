@@ -42,3 +42,4 @@ Deferred intentionally to keep the first version focused.
 ## Testing
 - Cover the untested `extract_fields` branches: 4xx re-raise,
   429/5xx recorded, parse-error recorded.
+

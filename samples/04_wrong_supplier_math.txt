@@ -11,4 +11,4 @@ Amount: 50.50
 
 Subtotal: 50.50
 Tax: 5.00
-Total: 65.50
+Total: 65.50 

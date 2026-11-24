@@ -141,3 +141,4 @@ The workflow processes one invoice at a time. It supports structured extraction,
 Supplier-provided monetary values are preserved, including values that contain arithmetic inconsistencies.
 
 See [LATER.md](LATER.md) for deferred improvements.
+

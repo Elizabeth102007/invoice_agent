@@ -5,6 +5,7 @@ from studio.schemas import ExtractedInvoice, LineItem
 from studio.validation import validate_invoice
 
 
+
 def make_valid_invoice() -> ExtractedInvoice:
     return ExtractedInvoice(
         vendor="Acme Supplies Ltd",

@@ -227,3 +227,4 @@ async def test_validation_exception_propagates(monkeypatch):
 
     with pytest.raises(RuntimeError, match="Validator programming bug"):
         await graph.ainvoke(make_initial_state())
+    
